@@ -1,0 +1,11 @@
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\bin\Debug\netcoreapp2.1\BooleanExerciseStep94.deps.json
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\bin\Debug\netcoreapp2.1\BooleanExerciseStep94.runtimeconfig.json
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\bin\Debug\netcoreapp2.1\BooleanExerciseStep94.runtimeconfig.dev.json
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\bin\Debug\netcoreapp2.1\BooleanExerciseStep94.dll
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\bin\Debug\netcoreapp2.1\BooleanExerciseStep94.pdb
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\obj\Debug\netcoreapp2.1\BooleanExerciseStep94.csprojAssemblyReference.cache
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\obj\Debug\netcoreapp2.1\BooleanExerciseStep94.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\obj\Debug\netcoreapp2.1\BooleanExerciseStep94.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\obj\Debug\netcoreapp2.1\BooleanExerciseStep94.AssemblyInfo.cs
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\obj\Debug\netcoreapp2.1\BooleanExerciseStep94.dll
+C:\Users\cback\source\repos\RandomProjects\BooleanExerciseStep94\BooleanExerciseStep94\obj\Debug\netcoreapp2.1\BooleanExerciseStep94.pdb
